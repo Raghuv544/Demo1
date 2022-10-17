@@ -2,3 +2,5 @@
 #Git Status cmd
 #Git Check1
 #Git Check2
+#Git Master Check1
+#Git Master Check2
